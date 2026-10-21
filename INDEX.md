@@ -8,6 +8,8 @@
 
 | [SIGNAL-003](posts/SIGNAL-003.md) | Andrej Karpathy (@karpathy) | LLM Wiki · 누적 지식 관리 | 매우 높음 | Gist 원문 확인, X 접근 제한 | https://x.com/karpathy/status/2039805659525644595 |
 
+| [SIGNAL-004](posts/SIGNAL-004.md) | Dario Amodei (@DarioAmodei) | AI 안전·보안 · AI 거버넌스 · AI 에이전트 | 매우 높음 | 공식 에세이 직접 확인, X 외부 아카이브 확인 | https://x.com/DarioAmodei/status/2098773920774074715 |
+
 ## 연결 지식
 - [AI 안전과 보안](topics/ai-safety.md): SIGNAL-001, SIGNAL-002
 - [AI 에이전트 ](topics/ai-agents.md)
