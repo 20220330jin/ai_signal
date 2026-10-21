@@ -6,6 +6,8 @@
 
 | [SIGNAL-002](posts/SIGNAL-002.md) | Andrej Karpathy (@karpathy) | AI capability · agents · 검증 가능한 보상 | 높음 | 외부 스레드 아카이브에서 확인 | https://x.com/karpathy/status/2109361546505966046 |
 
+| [SIGNAL-003](posts/SIGNAL-003.md) | Andrej Karpathy (@karpathy) | LLM Wiki · 누적 지식 관리 | 매우 높음 | Gist 원문 확인, X 접근 제한 | https://x.com/karpathy/status/2039805659525644595 |
+
 ## 연결 지식
 - [AI 안전과 보안](topics/ai-safety.md): SIGNAL-001, SIGNAL-002
 - [AI 에이전트 ](topics/ai-agents.md)
