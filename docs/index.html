@@ -13,9 +13,9 @@
 const base='https://raw.githubusercontent.com/20220330jin/ai_signal/main/';
 const postsEl=document.getElementById('posts'),content=document.getElementById('content'),toc=document.getElementById('toc'),tocLinks=document.getElementById('tocLinks');
 const known=new Map();let active='';let view='topic';
-const displayTitles={'SIGNAL-001':'AI 초지능 시대의 안전과 통제','SIGNAL-002':'사람마다 AI의 능력을 다르게 평가하는 이유','SIGNAL-003':'LLM Wiki — AI가 관리하는 개인 지식 저장소'};
+const displayTitles={'SIGNAL-001':'AI 초지능 시대의 안전과 통제','SIGNAL-002':'사람마다 AI의 능력을 다르게 평가하는 이유','SIGNAL-003':'LLM Wiki — AI가 관리하는 개인 지식 저장소','SIGNAL-004':'AI 개발 속도를 조절해야 하는 이유'};
 function displayTitle(id,topic){return displayTitles[id]||topic||id}
-const categories={'SIGNAL-001':['AI 안전·보안'],'SIGNAL-002':['AI 모델·성능','AI 에이전트'],'SIGNAL-003':['AI 에이전트','지식 관리']};
+const categories={'SIGNAL-001':['AI 안전·보안'],'SIGNAL-002':['AI 모델·성능','AI 에이전트'],'SIGNAL-003':['AI 에이전트','지식 관리'],'SIGNAL-004':['AI 안전·보안','AI 거버넌스','AI 에이전트']};
 function getCategories(id,topic){return categories[id]||[topic?.split('·')[0].trim()||'기타']}
 function entries(){return [...known.entries()].map(([path,data])=>({path,...data,id:path.split('/')[1].replace('.md','')})).reverse()}
 function groups(){const m=new Map();for(const e of entries()){const keys=view==='author'?[e.author.split(' (')[0]]:view==='topic'?getCategories(e.id,e.topic):['모든 글'];for(const k of keys){if(!m.has(k))m.set(k,[]);m.get(k).push(e)}}return m}
