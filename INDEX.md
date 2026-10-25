@@ -10,10 +10,11 @@
 
 | [SIGNAL-004](posts/SIGNAL-004.md) | Dario Amodei (@DarioAmodei) | AI 안전·보안 · AI 거버넌스 · AI 에이전트 | 매우 높음 | 공식 에세이 직접 확인, X 외부 아카이브 확인 | https://x.com/DarioAmodei/status/2098773920774074715 |
 
+| [SIGNAL-005](posts/SIGNAL-005.md) | Svix | MCP Events · Webhook · AI 에이전트 | 높음(잠정) | 원문 재검증 필요 · provisional | https://www.svix.com/blog/mcp-events/ |
+
 ## 연결 지식
 - [AI 안전과 보안](topics/ai-safety.md): SIGNAL-001, SIGNAL-002
 - [AI 에이전트 ](topics/ai-agents.md)
 - [코딩 자동화](topics/coding-automation.md)
 - [로컬 LLM](topics/local-llm.md)
 
-| [SIGNAL-005](posts/SIGNAL-005.md) | Svix | MCP Events · Webhook · AI 에이전트 | 높음(잠정) | 원문 재검증 필요 · provisional | https://www.svix.com/blog/mcp-events/ |
