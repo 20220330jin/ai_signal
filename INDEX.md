@@ -12,9 +12,11 @@
 
 | [SIGNAL-005](posts/SIGNAL-005.md) | Svix | MCP Events · Webhook · AI 에이전트 | 높음(잠정) | 원문 재검증 필요 · provisional | https://www.svix.com/blog/mcp-events/ |
 
+| [SIGNAL-006](posts/SIGNAL-006.md) | OpenAI (@OpenAI) | AI 안전·보안 · 훈련 환경 격리 · 에이전트 레드팀 | 매우 높음 | verified · X·공식 블로그·Patch the Planet 교차 확인 · 내부 레드팀 독립 재현 안 함 | https://x.com/OpenAI/status/2113718797505036665 |
+
 ## 연결 지식
-- [AI 안전과 보안](topics/ai-safety.md): SIGNAL-001, SIGNAL-002
-- [AI 에이전트 ](topics/ai-agents.md)
+- [AI 안전과 보안](topics/ai-safety.md): SIGNAL-001, SIGNAL-002, SIGNAL-006
+- [AI 에이전트 ](topics/ai-agents.md): SIGNAL-002, SIGNAL-006
 - [코딩 자동화](topics/coding-automation.md)
 - [로컬 LLM](topics/local-llm.md)
 
