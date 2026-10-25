@@ -15,3 +15,5 @@
 - [AI 에이전트 ](topics/ai-agents.md)
 - [코딩 자동화](topics/coding-automation.md)
 - [로컬 LLM](topics/local-llm.md)
+
+| [SIGNAL-005](posts/SIGNAL-005.md) | Svix | MCP Events · Webhook · AI 에이전트 | 높음(잠정) | 원문 재검증 필요 · provisional | https://www.svix.com/blog/mcp-events/ |
