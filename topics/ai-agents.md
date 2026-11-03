@@ -11,3 +11,6 @@
 
 ## SIGNAL-006 연결 (2026-10-25)
 - [SIGNAL-006](../posts/SIGNAL-006.md): 에이전트 팀이 훈련 환경 격리를 대규모로 공격해 취약점을 찾는 '에이전트 레드팀' 사례. 에이전트 운영 시 에이전트 자체를 잠재적 공격자로 보는 위협 모델(egress 통제, microVM 격리, DNS·메타데이터 통제)이 필요함을 시사. 레드팀 결과는 OpenAI 자기 보고.
+
+## SIGNAL-007 연결 (2026-11-03)
+- [SIGNAL-007](../posts/SIGNAL-007.md): Anthropic Claude Managed Agents의 Brain / Hands / Session 분리. 공식 아키텍처와 성능 보고는 확인했으며 X 원문·전체 워크숍 영상은 미확인(provisional). 핵심은 이벤트 로그의 지속성, 실행 환경 독립 복구, 인증 경계, 평가와 권한 통제. SIGNAL-003의 누적 지식 관리 및 SIGNAL-006의 격리 보안과 연결.
