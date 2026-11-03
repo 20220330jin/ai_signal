@@ -14,3 +14,6 @@
 
 ## SIGNAL-007 연결 (2026-11-03)
 - [SIGNAL-007](../posts/SIGNAL-007.md): Anthropic Claude Managed Agents의 Brain / Hands / Session 분리. 공식 아키텍처와 성능 보고는 확인했으며 X 원문·전체 워크숍 영상은 미확인(provisional). 핵심은 이벤트 로그의 지속성, 실행 환경 독립 복구, 인증 경계, 평가와 권한 통제. SIGNAL-003의 누적 지식 관리 및 SIGNAL-006의 격리 보안과 연결.
+
+## SIGNAL-008 연결 (2026-11-03)
+- [SIGNAL-008](../posts/SIGNAL-008.md): Karpathy 공식 2시간 강의의 실제 목차와 바이럴 Agents → Harness → Loops → Graphs 요약의 출처 차이를 기록. 해당 개념의 기술적 가치는 인정하되 직접 강의 목차로 귀속하지 않는다. SIGNAL-007의 Brain / Hands / Session 분리와 연결. 원본 X와 후속 댓글은 미확인.
