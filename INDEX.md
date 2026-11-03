@@ -16,8 +16,10 @@
 
 | [SIGNAL-007](posts/SIGNAL-007.md) | @F5Adon (공유) / Anthropic (원 발표) | Managed Agents · Brain/Hands/Session · 지속 세션 · 평가 | 매우 높음 | 공식 설계 확인, X·영상 미대조 · provisional | https://x.com/F5Adon/status/2117021112500437426 |
 
+| [SIGNAL-008](posts/SIGNAL-008.md) | @AndyL5cc (공유), Andrej Karpathy (원 강의 후보) | 강의 출처 검증 · Harness · Loops · Graphs | 높음 | provisional: 영상 챕터 불일치, X 원문 미확인 | https://www.youtube.com/watch?v=EWvNQjAaOHw |
+
 ## 연결 지식
-- [AI 안전과 보안](topics/ai-safety.md): SIGNAL-001, SIGNAL-002, SIGNAL-006, SIGNAL-007
+- [AI 안전과 보안](topics/ai-safety.md): SIGNAL-001, SIGNAL-002, SIGNAL-006, SIGNAL-007, SIGNAL-008
 - [AI 에이전트 ](topics/ai-agents.md): SIGNAL-002, SIGNAL-006
 - [코딩 자동화](topics/coding-automation.md)
 - [로컬 LLM](topics/local-llm.md)
