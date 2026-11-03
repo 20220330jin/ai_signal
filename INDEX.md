@@ -14,8 +14,10 @@
 
 | [SIGNAL-006](posts/SIGNAL-006.md) | OpenAI (@OpenAI) | AI 안전·보안 · 훈련 환경 격리 · 에이전트 레드팀 | 매우 높음 | verified · X·공식 블로그·Patch the Planet 교차 확인 · 내부 레드팀 독립 재현 안 함 | https://x.com/OpenAI/status/2113718797505036665 |
 
+| [SIGNAL-007](posts/SIGNAL-007.md) | @F5Adon (공유) / Anthropic (원 발표) | Managed Agents · Brain/Hands/Session · 지속 세션 · 평가 | 매우 높음 | 공식 설계 확인, X·영상 미대조 · provisional | https://x.com/F5Adon/status/2117021112500437426 |
+
 ## 연결 지식
-- [AI 안전과 보안](topics/ai-safety.md): SIGNAL-001, SIGNAL-002, SIGNAL-006
+- [AI 안전과 보안](topics/ai-safety.md): SIGNAL-001, SIGNAL-002, SIGNAL-006, SIGNAL-007
 - [AI 에이전트 ](topics/ai-agents.md): SIGNAL-002, SIGNAL-006
 - [코딩 자동화](topics/coding-automation.md)
 - [로컬 LLM](topics/local-llm.md)
